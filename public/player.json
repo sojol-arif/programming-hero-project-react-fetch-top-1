@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Shubman Gill",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "India",
+    "role": "Opening Batter",
+    "rating": 723,
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm offbreak",
+    "price": 165000000
+  },
+  {
+    "id": 2,
+    "name": "Joe Root",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "England",
+    "role": "Batter",
+    "rating": 887,
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm offbreak / Legbreak",
+    "price": 100000000
+  },
+  {
+    "id": 3,
+    "name": "Travis Head",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "Australia",
+    "role": "Batter",
+    "rating": 815,
+    "batting": "Left-hand bat",
+    "bowling": "Right-arm offbreak",
+    "price": 140000000
+  },
+  {
+    "id": 4,
+    "name": "Jasprit Bumrah",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "India",
+    "role": "Bowler",
+    "rating": 879,
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm fast",
+    "price": 180000000
+  },
+  {
+    "id": 5,
+    "name": "Rashid Khan",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "Afghanistan",
+    "role": "Bowling Allrounder",
+    "rating": 710,
+    "batting": "Right-hand bat",
+    "bowling": "Legbreak googly",
+    "price": 180000000
+  },
+  {
+    "id": 6,
+    "name": "Virat Kohli",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "India",
+    "role": "Top-order Batter",
+    "rating": 773,
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm medium",
+    "price": 210000000
+  },
+  {
+    "id": 7,
+    "name": "Pat Cummins",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "Australia",
+    "role": "Bowler / Captain",
+    "rating": 820,
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm fast",
+    "price": 180000000
+  },
+  {
+    "id": 8,
+    "name": "Heinrich Klaasen",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "South Africa",
+    "role": "Wicketkeeper Batter",
+    "rating": 750,
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm offbreak",
+    "price": 230000000
+  },
+  {
+    "id": 9,
+    "name": "Mitchell Starc",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "Australia",
+    "role": "Bowler",
+    "rating": 735,
+    "batting": "Left-hand bat",
+    "bowling": "Left-arm fast",
+    "price": 117500000
+  },
+  {
+    "id": 10,
+    "name": "Kane Williamson",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "New Zealand",
+    "role": "Batter",
+    "rating": 822,
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm offbreak",
+    "price": 20000000
+  },
+  {
+    "id": 11,
+    "name": "Mohammad Rizwan",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "Pakistan",
+    "role": "Wicketkeeper Batter",
+    "rating": 664,
+    "batting": "Right-hand bat",
+    "bowling": "Right-arm medium",
+    "price": 125000000
+  },
+  {
+    "id": 12,
+    "name": "Abhishek Sharma",
+    "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2023/12/19/img_20231219_202842.jpg",
+    "country": "India",
+    "role": "Allrounder",
+    "rating": 829,
+    "batting": "Left-hand bat",
+    "bowling": "Left-arm orthodox",
+    "price": 140000000
+  }
+]
